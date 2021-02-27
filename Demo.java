@@ -1,6 +1,7 @@
 public class Waseem{
 int x=30;
 int y=40;
+int z=50;
 
 public void m1(){
 
